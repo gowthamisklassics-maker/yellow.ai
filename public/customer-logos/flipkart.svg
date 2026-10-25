@@ -1,0 +1,12 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="80" viewBox="0 0 220 80">
+  <rect width="220" height="80" fill="none"/>
+  <g transform="translate(8 12)">
+    <path d="M10 8 H42 L48 16 L43 52 H8 Z" fill="#2874f0"/>
+    <path d="M10 8 L17 0 H39 L46 8 Z" fill="#f7b500"/>
+    <path d="M17 0 L22 8 H46 L39 0 Z" fill="#ffcc00"/>
+    <path d="M17 20 H37 L34 43 H14 Z" fill="#ffffff" opacity="0.95"/>
+    <path d="M20 25 H32 M19 31 H31 M18 37 H30" stroke="#2874f0" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="65" y="47" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#2874f0">Flipkart</text>
+</svg>

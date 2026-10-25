@@ -1,0 +1,7 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dbeafe"/><stop offset="1" stop-color="#cffafe"/></linearGradient></defs>
+<rect width="800" height="450" rx="24" fill="url(#b)"/><rect x="45" y="45" width="710" height="360" rx="20" fill="#fff" fill-opacity=".7"/>
+<rect x="90" y="90" width="300" height="250" rx="18" fill="#172554"/><text x="120" y="135" font-family="Arial" font-size="20" font-weight="bold" fill="white">Digital Banking</text><text x="120" y="185" font-family="Arial" font-size="15" fill="#bfdbfe">Available balance</text><text x="120" y="225" font-family="Arial" font-size="34" font-weight="bold" fill="white">₹ 45,800</text><rect x="120" y="255" width="220" height="45" rx="10" fill="#2563eb"/><text x="145" y="283" font-family="Arial" font-size="15" fill="white">View Transactions</text>
+<circle cx="570" cy="155" r="43" fill="#f2c7b1"/><path d="M528 153 Q528 103 570 110 Q612 107 612 153 L601 135 Q575 125 541 145Z" fill="#342343"/><path d="M510 260 Q516 202 570 202 Q624 202 630 260Z" fill="#7c3aed"/>
+<rect x="440" y="285" width="260" height="65" rx="14" fill="white" stroke="#bfdbfe"/><text x="460" y="315" font-family="Arial" font-size="15" font-weight="bold" fill="#111827">Banking AI Assistant</text><text x="460" y="335" font-family="Arial" font-size="12" fill="#64748b">Secure support, anytime</text>
+</svg>

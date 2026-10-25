@@ -1,0 +1,43 @@
+
+.cta-section {
+  padding: 80px 0;
+  background: #101820;
+}
+
+.cta-panel {
+  padding: 65px 28px;
+  text-align: center;
+  border-radius: 22px;
+  background:
+    radial-gradient(circle at 50% 0%, #31483b, transparent 60%),
+    #192b39;
+  border: 1px solid #415748;
+}
+
+.cta-panel > span {
+  color: #caff52;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+.cta-panel h2 {
+  max-width: 720px;
+  margin: 22px auto;
+  font-size: clamp(30px, 4vw, 48px);
+}
+
+.cta-panel p {
+  color: #b7c3ce;
+  line-height: 1.8;
+}
+
+.cta-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 14px 22px;
+  border-radius: 8px;
+  background: #caff52;
+  color: #101820;
+  text-decoration: none;
+  font-weight: 700;
+}

@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b45"/><stop offset="1" stop-color="#48258a"/></linearGradient><linearGradient id="glow"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a855f7"/></linearGradient></defs>
+<rect width="800" height="600" rx="28" fill="url(#bg)"/>
+<circle cx="580" cy="250" r="190" fill="#6d28d9" opacity=".3"/>
+<rect x="45" y="80" width="340" height="440" rx="22" fill="#fff" fill-opacity=".09" stroke="#fff" stroke-opacity=".3"/>
+<text x="75" y="125" fill="#22d3ee" font-family="Arial" font-size="20">AI Assistant</text>
+<rect x="70" y="155" width="275" height="75" rx="14" fill="#fff" fill-opacity=".13"/>
+<text x="88" y="185" fill="white" font-family="Arial" font-size="15">Hello! How can I help</text><text x="88" y="207" fill="white" font-family="Arial" font-size="15">you today?</text>
+<rect x="125" y="250" width="235" height="55" rx="14" fill="url(#glow)"/>
+<text x="143" y="283" fill="white" font-family="Arial" font-size="14">Show me AI solutions</text>
+<rect x="70" y="325" width="275" height="95" rx="14" fill="#fff" fill-opacity=".13"/>
+<text x="88" y="358" fill="white" font-family="Arial" font-size="14">Intelligent automation</text><text x="88" y="382" fill="white" font-family="Arial" font-size="14">for your business.</text>
+<circle cx="575" cy="220" r="85" fill="#f3c9b7"/><path d="M490 220 Q490 120 575 135 Q660 130 660 220 L635 175 Q580 150 520 190Z" fill="#28213e"/>
+<path d="M480 420 Q485 285 575 285 Q665 285 675 420Z" fill="#d9e8ff"/>
+<rect x="450" y="455" width="280" height="65" rx="15" fill="#fff" fill-opacity=".12"/>
+<text x="475" y="482" fill="white" font-family="Arial" font-size="16">AI agents</text><text x="475" y="505" fill="#22d3ee" font-family="Arial" font-size="14">Smarter customer experiences</text>
+</svg>
